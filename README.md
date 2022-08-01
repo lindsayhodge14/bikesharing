@@ -10,7 +10,8 @@ The purpose of this analysis is to convince investors that a bike-sharing progra
 ## Results
 To view each of the graphs indepently one may click the following link... [link to dashboard](https://public.tableau.com/views/Challenge14Deliverable3/NYCtoDesMoine?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
-##The content of the link is also displayed below, and it summarizes the finding relevant to Des Moines.
+The content of the link is also displayed below, and it summarizes the finding relevant to Des Moines.
+
 ![Viz1.png](/Resources/Viz1.png)
 ![Viz2.png](/Resources/Viz2.png)
 ![Viz3.png](/Resources/Viz3.png)

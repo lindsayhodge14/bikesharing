@@ -3,9 +3,9 @@
 ## Overview
 The purpose of this analysis is to convince investors that a bike-sharing program in Des Moines is a solid business proposal. To solidify the proposal, one of the key stakeholders would like to see a bike trip analysis. Pandas has been used to change the "tripduration" column from an integer to a datetime datatype so that this information may be easily displayed for him. Using the converted data, the following visualizations were created:
 
-Show the length of time that bikes are checked out for all riders and genders
-Show the number of bike trips for all riders and genders for each hour of each day of the week
-Show the number of bike trips for each type of user and gender for each day of the week.
+* Show the length of time that bikes are checked out for all riders and genders
+* Show the number of bike trips for all riders and genders for each hour of each day of the week
+* Show the number of bike trips for each type of user and gender for each day of the week.
 
 ## Results
 To view each of the graphs indepently one may click the following link... [link to dashboard](https://public.tableau.com/views/Challenge14Deliverable3/NYCtoDesMoine?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
